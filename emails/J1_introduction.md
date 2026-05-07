@@ -1,38 +1,35 @@
 # Email J1 — Introduction Focale
 
-**Objet:** Mesurer l'expérience de vos collaborateurs — au-delà du sondage annuel  
+**Objet:** Prendre le pouls de vos équipes, simplement  
 **Expéditeur:** sf@experientiel.ch  
 **CTA:** focale.experientiel.ch  
 **Ton:** Professionnel, direct, simple
 
 ---
 
-Madame, Monsieur,
+Dans une équipe de 10 à 50 personnes, un départ, une absence prolongée ou une tension interne se ressent très vite.
 
-Dans beaucoup d'entreprises, l'expérience collaborateur se mesure une fois par an, via un sondage. C'est utile — mais c'est une photo.
+Le problème, c’est que les signaux qui les précèdent sont souvent discrets : surcharge, manque de reconnaissance, flou dans les rôles, perte de motivation, décalage entre ce que la direction pense et ce que les collaborateurs vivent.
 
-Ce que vos collaborateurs vivent au quotidien, ce que ça coûte en turnover ou en absentéisme, les signaux faibles qui précèdent un départ ou un désengagement — tout ça, un sondage annuel ne le capte pas.
+Le sondage annuel donne une photographie utile. Focale aide à suivre le film.
 
-**Focale, c'est le film.**
+Focale est un outil conçu pour les PME qui permet de mesurer régulièrement l’expérience collaborateur, sans alourdir vos équipes :
 
-Une mesure continue, conçue pour les PME, qui permet de voir ce qui se passe vraiment — et d'agir avant que les problèmes s'installent.
+– un diagnostic initial rapide,
+– des micro-sondages courts et ciblés,
+– un tableau de bord lisible,
+– des pistes d’action concrètes pour prioriser les sujets RH.
 
-En pratique :
-- Des micro-sondages courts (2–3 minutes), réguliers et ciblés
-- Des tableaux de bord lisibles, sans jargon RH
-- Des recommandations concrètes, adaptées à votre contexte
+Vous pouvez voir la démonstration directement ici, sans inscription préalable :
+focale.experientiel.ch → bouton « Accès démo »
 
-Si vous souhaitez voir comment ça fonctionne, une démonstration est disponible directement sur notre site — accès libre, sans inscription préalable.
-
-👉 focale.experientiel.ch → bouton « Accès démo »
-
-Je reste disponible pour un échange si vous souhaitez aller plus loin.
+Si le sujet vous semble pertinent, je serais volontiers disponible pour un bref échange.
 
 Cordialement,
 
-Focale par Experientiel Sàrl
 Stéphane Fellay
 Directeur
+Focale par Experientiel Sàrl
 Rue Joseph-Reichlen 4
 1700 Fribourg
 +41 79 785 26 79

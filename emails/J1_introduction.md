@@ -1,35 +1,24 @@
-# Email J1 — Introduction Focale
+# Email J1 - Introduction Focale
 
-**Objet:** Prendre le pouls de vos équipes, simplement  
-**Expéditeur:** sf@experientiel.ch  
-**CTA:** focale.experientiel.ch  
-**Ton:** Professionnel, direct, simple
+**Objet type :** `[Prenom], avez-vous une vision claire du vecu collaborateur chez [Entreprise] ?`
 
----
+Bonjour [Prenom],
 
-Dans une équipe de 10 à 50 personnes, un départ, une absence prolongée ou une tension interne se ressent très vite.
+Vous dirigez ou accompagnez les equipes chez [Entreprise].
 
-Le problème, c’est que les signaux qui les précèdent sont souvent discrets : surcharge, manque de reconnaissance, flou dans les rôles, perte de motivation, décalage entre ce que la direction pense et ce que les collaborateurs vivent.
+Beaucoup de PME investissent dans leurs collaborateurs, mais sans toujours savoir, de facon concrete, comment ces actions sont vecues sur le terrain ni si elles produisent un effet durable.
 
-Le sondage annuel donne une photographie utile. Focale aide à suivre le film.
+Focale permet de mesurer l'experience employe dans le temps, avec une approche simple et adaptee aux PME suisses.
 
-Focale est un outil conçu pour les PME qui permet de mesurer régulièrement l’expérience collaborateur, sans alourdir vos équipes :
+Testez Focale des maintenant : rendez-vous sur focale.experientiel.ch et cliquez sur "Acces demo".
 
-– un diagnostic initial rapide,
-– des micro-sondages courts et ciblés,
-– un tableau de bord lisible,
-– des pistes d’action concrètes pour prioriser les sujets RH.
-
-Vous pouvez voir la démonstration directement ici, sans inscription préalable :
-focale.experientiel.ch → bouton « Accès démo »
-
-Si le sujet vous semble pertinent, je serais volontiers disponible pour un bref échange.
+Je suis disponible pour une demo en presentiel en Suisse Romande - contactez-moi a sf@experientiel.ch
 
 Cordialement,
 
-Stéphane Fellay
+Focale par Experientiel Sarl
+Stephane Fellay
 Directeur
-Focale par Experientiel Sàrl
 Rue Joseph-Reichlen 4
 1700 Fribourg
 +41 79 785 26 79

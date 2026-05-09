@@ -1,45 +1,45 @@
 # LISTE PROSPECTS CONSOLIDÉE — FOCALE
 
-**Date de mise à jour :** 2026-05-08 (UTC)  
+**Date de mise à jour :** 2026-05-09 (UTC)  
 **Nombre total de contacts uniques :** 83  
 **Sources consolidées :** `prospection/DOSSIER_PROSPECTION_MANUEL.md`, `prospection/prospects-focale-nouveaux-30.md`, `prospection/prospects-focale-suisse-romande.md`, `prospection/PROSPECTION_FOCALE.md`, `suivi/outreach-log.md`, plus les contacts santé/hôtellerie fournis dans le brief.  
 
 ## Résumé chiffré
 
 - **Total contacts :** 83
-- **J1 envoyés :** 4
+- **J1 envoyés :** 14
 - **J5 envoyés :** 4
-- **J12 envoyés :** 4
+- **J12 envoyés :** 0
 - **Email confirmé / probable / non vérifié :** 10 / 4 / 54
 - **Emails introuvables :** 15
-- **Prêts à contacter :** 6
+- **Prêts à contacter :** 0
 - **À qualifier :** 69
 
-> Règle de consolidation : déduplication par `prénom + nom + entreprise`. Le dossier manuel couvre déjà la majorité des listes précédentes; la consolidation ajoute surtout les 4 contacts déjà en campagne, les 30 grands comptes de `PROSPECTION_FOCALE.md` et 3 contacts santé/hôtellerie absents du repo.
+> Règle de consolidation : déduplication par `prénom + nom + entreprise`. Le dossier manuel couvre déjà la majorité des listes précédentes; la consolidation ajoute surtout les 14 contacts déjà en campagne, les 30 grands comptes de `PROSPECTION_FOCALE.md` et 3 contacts santé/hôtellerie absents du repo.
 
 ## 1. Contacts déjà dans la campagne
 
 | # | Prénom | Nom | Titre | Entreprise | Secteur | Email | Statut email | Statut campagne | Prochain step | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Marc | Dutoit | Directeur Général / CEO | HSE Conseils SA | Conseil RH / Sécurité | marc.dutoit@hseconseils.ch | confirmé | J12 envoyé 2026-05-09 | Attendre réponse / clôture | J1 le 2026-05-07; J5 envoyé x3 par incident NanoCorp; J12 envoyé le 2026-05-09 |
-| 2 | Christophe | Bizzini | CEO / Directeur Général | SCI-Services SA | Services | christophe.bizzini@sci-services.ch | confirmé | J12 envoyé 2026-05-09 | Attendre réponse / clôture | J1 le 2026-05-07; J5 envoyé x3 par incident NanoCorp; J12 envoyé le 2026-05-09 |
-| 3 | Hugues | Jeanbourquin | Responsable RH & Comptabilité | Schaublin Machines SA | Industrie / Machines | h.jeanbourquin@smsa.ch | confirmé | J12 envoyé 2026-05-09 | Attendre réponse / clôture | J1 le 2026-05-07; J5 envoyé x3 par incident NanoCorp; J12 envoyé le 2026-05-09 |
-| 4 | Allen | Vernier | DRH | TMR - Transports de Martigny et Régions | Transport (Valais) | allen.vernier@tmrsa.ch | confirmé | J12 envoyé 2026-05-09 | Attendre réponse / clôture | J1 le 2026-05-07; J5 envoyé x3 par incident NanoCorp; J12 envoyé le 2026-05-09 |
+| 1 | Marc | Dutoit | Directeur Général / CEO | HSE Conseils SA | Conseil RH / Sécurité | marc.dutoit@hseconseils.ch | confirmé | J5 envoyé 2026-05-08 | J12 prévu 2026-05-15 | J1 le 2026-05-07; J5 envoyé x3 par incident NanoCorp |
+| 2 | Christophe | Bizzini | CEO / Directeur Général | SCI-Services SA | Services | christophe.bizzini@sci-services.ch | confirmé | J5 envoyé 2026-05-08 | J12 prévu 2026-05-15 | J1 le 2026-05-07; J5 envoyé x3 par incident NanoCorp |
+| 3 | Hugues | Jeanbourquin | Responsable RH & Comptabilité | Schaublin Machines SA | Industrie / Machines | h.jeanbourquin@smsa.ch | confirmé | J5 envoyé 2026-05-08 | J12 prévu 2026-05-15 | J1 le 2026-05-07; J5 envoyé x3 par incident NanoCorp |
+| 4 | Allen | Vernier | DRH | TMR - Transports de Martigny et Régions | Transport (Valais) | allen.vernier@tmrsa.ch | confirmé | J5 envoyé 2026-05-08 | J12 prévu 2026-05-15 | J1 le 2026-05-07; J5 envoyé x3 par incident NanoCorp |
 | 5 | Alain | Codourey | CEO & Co-Fondateur | Asyril SA | Robotique / Automation (Villaz-Saint-Pierre FR, ~70 emp.) | alain.codourey@asyril.com | confirmé | J1 envoyé 2026-05-08 | J5 prévu 2026-05-12 | Email vérifié NanoCorp le 2026-05-08 |
 | 6 | Alain | Hess | CEO | MIMOTEC SA | Microtechnologie / Horlogerie (Sion VS, 40–60 emp.) | alain.hess@mimotec.ch | confirmé | J1 envoyé 2026-05-08 | J5 prévu 2026-05-12 | Email vérifié NanoCorp le 2026-05-08 |
 | 7 | Mauro | Ambrosini | Directeur Général | Stoco SA | Micro-mécanique (Concise VD, 30–50 emp.) | mambrosini@stoco.ch | confirmé | J1 envoyé 2026-05-08 | J5 prévu 2026-05-12 | Email vérifié NanoCorp le 2026-05-08 |
 | 8 | Emilie | Rebetez | CEO | easyDec SA | Décolletage / Medtech (Delémont JU, 40–60 emp.) | emilie.rebetez@easydec.ch | confirmé | J1 envoyé 2026-05-08 | J5 prévu 2026-05-12 | Email vérifié NanoCorp le 2026-05-08 |
 
-## 2. Contacts prêts à envoyer
+## 2. Contacts traités le 2026-05-09 (ex-prêts à envoyer)
 
 | # | Prénom | Nom | Titre | Entreprise | Secteur | Email | Statut email | Statut campagne | Prochain step | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 9 | Daisy | Gros | Directrice Administrative – RH | BERTOLIT SA | Construction / Rénovation (Genève, ~80 emp.) | daisy.gros@bertolit.ch | confirmé | À contacter | — | Source: dossier manuel |
-| 10 | Yves | Defalque | Directeur Général | Hotel Vatel Martigny | Hôtellerie (Martigny VS, 50–80 emp.) | y.defalque@vatel.ch | confirmé | À contacter | — | Email confirmé hors repo; remplace le format probable initial |
-| 11 | Maryline | D'Amario | Responsable RH | CIPOSA SA | Fabrication / Automatisation (Hauterive NE, ~59 emp.) | mdamario@ciposa.com | probable | À contacter | — | Source: dossier manuel |
-| 12 | Jérémie | Laurent | À préciser | Hotel d'Angleterre | Hôtellerie | jlaurent@dangleterrehotel.com | probable | À contacter | — | Prospect santé/hôtellerie hors repo |
-| 13 | Florence | Rabaud | À préciser | Hotel d'Angleterre | Hôtellerie | frabaud@dangleterrehotel.com | probable | À contacter | — | Prospect santé/hôtellerie hors repo |
-| 14 | Laurence | Voegelin-Stamm | Directrice | Hôtel Beaulac | Hôtellerie (Neuchâtel NE, 40–60 emp.) | stamm@beaulac.ch | probable | À contacter | — | Email probable hors repo; remplace le format probable initial |
+| 9 | Daisy | Gros | Directrice Administrative – RH | BERTOLIT SA | Construction / Rénovation (Genève, ~80 emp.) | daisy.gros@bertolit.ch | confirmé | J1 envoyé 2026-05-09 | J5 prévu 2026-05-13 | Source: dossier manuel; email_id `f213b22e-104c-414f-b60d-0dc4801d6312` |
+| 10 | Yves | Defalque | Directeur Général | Hotel Vatel Martigny | Hôtellerie (Martigny VS, 50–80 emp.) | y.defalque@vatel.ch | confirmé | J1 envoyé 2026-05-09 | J5 prévu 2026-05-13 | Email confirmé hors repo; email_id `fc58b352-7428-40cf-941e-532e4492ba99` |
+| 11 | Maryline | D'Amario | Responsable RH | CIPOSA SA | Fabrication / Automatisation (Hauterive NE, ~59 emp.) | mdamario@ciposa.com | probable | J1 envoyé 2026-05-09 | J5 prévu 2026-05-13 | Source: dossier manuel; email_id `58bc4361-d2a5-475b-8b05-a3eaae0e5b71` |
+| 12 | Jérémie | Laurent | À préciser | Hotel d'Angleterre | Hôtellerie | jlaurent@dangleterrehotel.com | probable | J1 envoyé 2026-05-09 | J5 prévu 2026-05-13 | Prospect santé/hôtellerie hors repo; email_id `41a9a269-684e-438a-bba1-75081b5d6870` |
+| 13 | Florence | Rabaud | À préciser | Hotel d'Angleterre | Hôtellerie | frabaud@dangleterrehotel.com | probable | J1 envoyé 2026-05-09 | J5 prévu 2026-05-13 | Prospect santé/hôtellerie hors repo; email_id `a64fb28d-c6d2-4a50-abbe-66e3131d0c70` |
+| 14 | Laurence | Voegelin-Stamm | Directrice | Hôtel Beaulac | Hôtellerie (Neuchâtel NE, 40–60 emp.) | stamm@beaulac.ch | probable | J1 envoyé 2026-05-09 | J5 prévu 2026-05-13 | Email probable hors repo; email_id `176f2642-6f47-422e-b853-642ed985be2f` |
 
 ## 3. Contacts à qualifier
 

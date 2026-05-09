@@ -9,7 +9,7 @@
 - **Total contacts :** 83
 - **J1 envoyés :** 4
 - **J5 envoyés :** 4
-- **J12 envoyés :** 0
+- **J12 envoyés :** 4
 - **Email confirmé / probable / non vérifié :** 10 / 4 / 54
 - **Emails introuvables :** 15
 - **Prêts à contacter :** 6
@@ -21,10 +21,10 @@
 
 | # | Prénom | Nom | Titre | Entreprise | Secteur | Email | Statut email | Statut campagne | Prochain step | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Marc | Dutoit | Directeur Général / CEO | HSE Conseils SA | Conseil RH / Sécurité | marc.dutoit@hseconseils.ch | confirmé | J5 envoyé 2026-05-08 | J12 prévu 2026-05-15 | J1 le 2026-05-07; J5 envoyé x3 par incident NanoCorp |
-| 2 | Christophe | Bizzini | CEO / Directeur Général | SCI-Services SA | Services | christophe.bizzini@sci-services.ch | confirmé | J5 envoyé 2026-05-08 | J12 prévu 2026-05-15 | J1 le 2026-05-07; J5 envoyé x3 par incident NanoCorp |
-| 3 | Hugues | Jeanbourquin | Responsable RH & Comptabilité | Schaublin Machines SA | Industrie / Machines | h.jeanbourquin@smsa.ch | confirmé | J5 envoyé 2026-05-08 | J12 prévu 2026-05-15 | J1 le 2026-05-07; J5 envoyé x3 par incident NanoCorp |
-| 4 | Allen | Vernier | DRH | TMR - Transports de Martigny et Régions | Transport (Valais) | allen.vernier@tmrsa.ch | confirmé | J5 envoyé 2026-05-08 | J12 prévu 2026-05-15 | J1 le 2026-05-07; J5 envoyé x3 par incident NanoCorp |
+| 1 | Marc | Dutoit | Directeur Général / CEO | HSE Conseils SA | Conseil RH / Sécurité | marc.dutoit@hseconseils.ch | confirmé | J12 envoyé 2026-05-09 | Attendre réponse / clôture | J1 le 2026-05-07; J5 envoyé x3 par incident NanoCorp; J12 envoyé le 2026-05-09 |
+| 2 | Christophe | Bizzini | CEO / Directeur Général | SCI-Services SA | Services | christophe.bizzini@sci-services.ch | confirmé | J12 envoyé 2026-05-09 | Attendre réponse / clôture | J1 le 2026-05-07; J5 envoyé x3 par incident NanoCorp; J12 envoyé le 2026-05-09 |
+| 3 | Hugues | Jeanbourquin | Responsable RH & Comptabilité | Schaublin Machines SA | Industrie / Machines | h.jeanbourquin@smsa.ch | confirmé | J12 envoyé 2026-05-09 | Attendre réponse / clôture | J1 le 2026-05-07; J5 envoyé x3 par incident NanoCorp; J12 envoyé le 2026-05-09 |
+| 4 | Allen | Vernier | DRH | TMR - Transports de Martigny et Régions | Transport (Valais) | allen.vernier@tmrsa.ch | confirmé | J12 envoyé 2026-05-09 | Attendre réponse / clôture | J1 le 2026-05-07; J5 envoyé x3 par incident NanoCorp; J12 envoyé le 2026-05-09 |
 | 5 | Alain | Codourey | CEO & Co-Fondateur | Asyril SA | Robotique / Automation (Villaz-Saint-Pierre FR, ~70 emp.) | alain.codourey@asyril.com | confirmé | J1 envoyé 2026-05-08 | J5 prévu 2026-05-12 | Email vérifié NanoCorp le 2026-05-08 |
 | 6 | Alain | Hess | CEO | MIMOTEC SA | Microtechnologie / Horlogerie (Sion VS, 40–60 emp.) | alain.hess@mimotec.ch | confirmé | J1 envoyé 2026-05-08 | J5 prévu 2026-05-12 | Email vérifié NanoCorp le 2026-05-08 |
 | 7 | Mauro | Ambrosini | Directeur Général | Stoco SA | Micro-mécanique (Concise VD, 30–50 emp.) | mambrosini@stoco.ch | confirmé | J1 envoyé 2026-05-08 | J5 prévu 2026-05-12 | Email vérifié NanoCorp le 2026-05-08 |
